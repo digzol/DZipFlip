@@ -1,4 +1,4 @@
-#DZipFlip
+# DZipFlip
 Command line tool written in [Node.js](https://nodejs.org/en/) 10.13.0.
 
 This tool is designed for reading and writing custom files that resemble the [Zip](https://en.wikipedia.org/wiki/Zip_(file_format)#Structure) format structure.
