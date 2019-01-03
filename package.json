@@ -1,0 +1,17 @@
+{
+  "name": "dzipflip",
+  "version": "0.1.0",
+  "description": "Read and write custom zip-like files",
+  "homepage": "",
+  "bugs": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "pako": "^1.0.6"
+  }
+}
