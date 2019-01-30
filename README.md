@@ -28,30 +28,27 @@ for (let entry of zip.entries) {
 For more examples, see [examples]().
 
 ## Issues
-To submit an issue or suggestion, see [issues]().
+To submit an issue or suggestion, see [issues](https://github.com/digzol/DZipFlip/issues).
 
 Issues or suggestions submitted anywhere else will get ignored.
 
 ## Contributions
-Any contributions are very much welcomed as long as they are submitted as a [pull request]().
+Any contributions are very much welcomed as long as they are submitted as a [pull request](https://github.com/digzol/DZipFlip/pulls).
 
-To facilitate the process, make sure you have submitted a corresponding ticket under [issues]() describing in details what your contribution changes and any other related open issues it may solve.
+To facilitate the process, make sure you have submitted a corresponding ticket under [issues](https://github.com/digzol/DZipFlip/issues) describing in details what your contribution changes and other related issues it may solve.
 
 ## About
-This tool was inspired by VZipFlip, a program written in C#.
+This tool is inspired by VZipFlip, a program written in C#.
 
-However, this tool is not limited to a single file structure and therefore can be useful in many different contexts.
-DZipFlip is also several times faster to execute than VZipFlip.
+However, it is not limited to a single zip-like structure and therefore can be useful in many different contexts.
+DZipFlip is also several times faster to execute than its counterpart.
 
-I chose Node.js as environment as an experiment, and because of its ease of use.
+I chose Node.js as environment as a learning experiment, and because of its ease of use.
 
 ## Disclaimer
 This application is under the MIT license.
 
-This application is meant to provide a helpful tool in the context described.
-This application is not meant to be used, nor should it be used, in a context where the user does not own, or have permission to read and/or alter the material being supplied to the application.
-The authors of this application are not responsible in which context this tool is used and are not liable for any damages or negative consequences resulting from the use of the tools provided by this application.
-Information provided under the "presets" section of this application are templates meant to be used as reference purposes by the application and said information is not meant to contain, nor should it contain, any copyrighted material, passwords, or otherwise illicit content.
-By using this application, the user agrees to the terms above.
+This application is meant to provide a helpful tool in the context described. It is not meant to be used, nor should it be used, in a context where the user does not own, or have permission to read and/or alter the material being supplied to the application.
+The authors of this application are not responsible in which context this tool is used and are not liable for any damages or negative consequences resulting from the use of the tools provided by this application. Information provided under the "presets" section of this application are templates meant to be used as reference purposes by the application and said information is not meant to contain, nor should it contain, any copyrighted material, passwords, or otherwise illicit content. By using this application, the user agrees to the terms above.
 
 Reference to Hfs file structure is provided under the "presets" section and its structure is used as an example and for informative and educational purposes. The authors do not claim ownership over the Hfs file structure and this application is not meant to be used on such files if the user does not have appropriate permissions.
