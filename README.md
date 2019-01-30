@@ -37,7 +37,7 @@ Any contributions are very much welcomed as long as they are submitted as a [pul
 
 To facilitate the process, make sure you have submitted a corresponding ticket under [issues]() describing in details what your contribution changes and any other related open issues it may solve.
 
-##About
+## About
 This tool was inspired by VZipFlip, a program written in C#.
 
 However, this tool is not limited to a single file structure and therefore can be useful in many different contexts.
