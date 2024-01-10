@@ -1,14 +1,9 @@
 # DZipFlip
 Command line tool written in [Node.js](https://nodejs.org/en/) 10.13.0.
 
-This tool is designed for reading and writing custom files that resemble the [Zip](https://en.wikipedia.org/wiki/Zip_(file_format)#Structure) format structure.
+This tool is designed to read and write custom files that resemble the [Zip](https://en.wikipedia.org/wiki/Zip_(file_format)#Structure) format structure.
 
-As of current version, features are very limited but more may be included in the future.
-
-## Usage
-[TODO]
-
-## Example
+## Usage Example
 Basic program converting and extracting every local entry from a single archive file.
 
 ```javascript
